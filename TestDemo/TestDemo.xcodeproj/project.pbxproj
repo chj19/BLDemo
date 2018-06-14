@@ -23,6 +23,7 @@
 		3BA07B412079C2DC00BE30F4 /* DevViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BA07B402079C2DC00BE30F4 /* DevViewController.m */; };
 		3BA07B44207A047200BE30F4 /* DeviceModifingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BA07B43207A047200BE30F4 /* DeviceModifingView.m */; };
 		3BF9350D20D283B10081C20B /* testgit.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BF9350C20D283B10081C20B /* testgit.m */; };
+		3BF9351020D285F70081C20B /* testAddAll.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BF9350F20D285F70081C20B /* testAddAll.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -60,6 +61,8 @@
 		3BA07B43207A047200BE30F4 /* DeviceModifingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DeviceModifingView.m; sourceTree = "<group>"; };
 		3BF9350B20D283B10081C20B /* testgit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = testgit.h; sourceTree = "<group>"; };
 		3BF9350C20D283B10081C20B /* testgit.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testgit.m; sourceTree = "<group>"; };
+		3BF9350E20D285F70081C20B /* testAddAll.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = testAddAll.h; sourceTree = "<group>"; };
+		3BF9350F20D285F70081C20B /* testAddAll.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testAddAll.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +128,8 @@
 				3BA07B402079C2DC00BE30F4 /* DevViewController.m */,
 				3BF9350B20D283B10081C20B /* testgit.h */,
 				3BF9350C20D283B10081C20B /* testgit.m */,
+				3BF9350E20D285F70081C20B /* testAddAll.h */,
+				3BF9350F20D285F70081C20B /* testAddAll.m */,
 			);
 			path = TestDemo;
 			sourceTree = "<group>";
@@ -212,6 +217,7 @@
 				3B58CBB62074BB54001C304B /* MEBLEModel.m in Sources */,
 				3B58CBBD2074BDE8001C304B /* BoundDeviceManager.m in Sources */,
 				3B58CB9C2074B352001C304B /* AppDelegate.m in Sources */,
+				3BF9351020D285F70081C20B /* testAddAll.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

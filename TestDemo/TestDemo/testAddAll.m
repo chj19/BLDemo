@@ -1,14 +1,14 @@
 //
-//  testgit.m
+//  testAddAll.m
 //  TestDemo
 //
 //  Created by 徐守卫 on 2018/6/14.
 //  Copyright © 2018年 徐守卫. All rights reserved.
 //
 
-#import "testgit.h"
+#import "testAddAll.h"
 
-@implementation testgit
+@implementation testAddAll
 
 /*
 // Only override drawRect: if you perform custom drawing.
@@ -17,10 +17,5 @@
     // Drawing code
 }
 */
-
--(void)testAddAll
-{
-    
-}
 
 @end
