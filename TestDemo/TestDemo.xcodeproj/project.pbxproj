@@ -22,6 +22,7 @@
 		3B58CBCE2074C945001C304B /* HistoryData.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B58CBCC2074C945001C304B /* HistoryData.m */; };
 		3BA07B412079C2DC00BE30F4 /* DevViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BA07B402079C2DC00BE30F4 /* DevViewController.m */; };
 		3BA07B44207A047200BE30F4 /* DeviceModifingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BA07B43207A047200BE30F4 /* DeviceModifingView.m */; };
+		3BF9350D20D283B10081C20B /* testgit.m in Sources */ = {isa = PBXBuildFile; fileRef = 3BF9350C20D283B10081C20B /* testgit.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -57,6 +58,8 @@
 		3BA07B402079C2DC00BE30F4 /* DevViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DevViewController.m; sourceTree = "<group>"; };
 		3BA07B42207A047100BE30F4 /* DeviceModifingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DeviceModifingView.h; sourceTree = "<group>"; };
 		3BA07B43207A047200BE30F4 /* DeviceModifingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DeviceModifingView.m; sourceTree = "<group>"; };
+		3BF9350B20D283B10081C20B /* testgit.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = testgit.h; sourceTree = "<group>"; };
+		3BF9350C20D283B10081C20B /* testgit.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = testgit.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +123,8 @@
 				3B58CBC72074C4AC001C304B /* PrefixHeader.pch */,
 				3BA07B3F2079C2DC00BE30F4 /* DevViewController.h */,
 				3BA07B402079C2DC00BE30F4 /* DevViewController.m */,
+				3BF9350B20D283B10081C20B /* testgit.h */,
+				3BF9350C20D283B10081C20B /* testgit.m */,
 			);
 			path = TestDemo;
 			sourceTree = "<group>";
@@ -194,6 +199,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3BF9350D20D283B10081C20B /* testgit.m in Sources */,
 				3B58CBCE2074C945001C304B /* HistoryData.m in Sources */,
 				3B58CBCA2074C716001C304B /* UserDefault.m in Sources */,
 				3B58CBC32074BEC6001C304B /* GlobalData.m in Sources */,
